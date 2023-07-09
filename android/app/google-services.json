@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656268951909",
+    "project_id": "guardnotifier-dcbdb",
+    "storage_bucket": "guardnotifier-dcbdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656268951909:android:c7a588b8a9fe277a24e18c",
+        "android_client_info": {
+          "package_name": "com.example.guard_notifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656268951909-uaud9sguhm0ia75drm8o2qqefncfvafs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHk97c24T2WwruChc-EKaRI2YykC-uLqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656268951909-uaud9sguhm0ia75drm8o2qqefncfvafs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
